@@ -1,0 +1,16 @@
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\bin\Debug\net8.0\MovieStore.DL.deps.json
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\bin\Debug\net8.0\MovieStore.DL.dll
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\bin\Debug\net8.0\MovieStore.DL.pdb
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\bin\Debug\net8.0\MovieStore.Models.dll
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\bin\Debug\net8.0\MovieStore.Models.pdb
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.csproj.AssemblyReference.cache
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.AssemblyInfoInputs.cache
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.AssemblyInfo.cs
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.csproj.CoreCompileInputs.cache
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.sourcelink.json
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\obj\Debug\net8.0\MovieSto.54BE3797.Up2Date
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.dll
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\obj\Debug\net8.0\refint\MovieStore.DL.dll
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.pdb
+C:\Users\serka\source\repos\MovieStore\MovieStore\MovieStore.DL\obj\Debug\net8.0\ref\MovieStore.DL.dll
